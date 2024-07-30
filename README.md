@@ -6,7 +6,10 @@ In the project directory, there is two folder one for backend and one for front
 
 * **todo-list : this is frontend with which has consume the API and run this project with commands:**
 * installation: npm i
-* run project: 'npm start' which will run with url 
+* run project: 'npm start' which will run with url
+
+  # backend github
+  'https://github.com/ritikkr066/todo-list-backend'
 
 ## Screenshot of the task
 
